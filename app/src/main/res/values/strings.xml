@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">mvp + clean</string>
+    <string name="unknown_error">Ocurrió un error inesperado, intenta más tarde.</string>
+    <string name="network_error">Ocurrió un error inesperado, verifica tu conexión a Internet.</string>
+</resources>
