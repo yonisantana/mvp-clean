@@ -6,7 +6,7 @@ import com.ysantana.mvp_dagger2_kotlin.di.components.DaggerApplicationComponent
 import com.ysantana.mvp_dagger2_kotlin.di.modules.ApplicationModule
 import io.realm.Realm
 
-class MyApp  {
+class MyApp  : MultiDexApplication(){
 
     companion object {
         @JvmStatic
