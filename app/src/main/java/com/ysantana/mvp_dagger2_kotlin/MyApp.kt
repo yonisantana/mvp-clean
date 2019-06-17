@@ -17,6 +17,7 @@ class MyApp : MultiDexApplication(){
         super.onCreate()
         initRealm()
         initDependencies()
+        if(true){}
     }
 
     private fun initDependencies() {
